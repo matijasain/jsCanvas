@@ -1,1 +1,1 @@
-# JavaScript Artistry
+# JavaScript Canvas play around
